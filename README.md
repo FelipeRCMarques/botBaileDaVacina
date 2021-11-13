@@ -3,14 +3,14 @@ Bot que vota no sabor abacaxi para o gummy no Baile da Vacina
 
 ## Tutorial
 
-O tutorial usado foi: (https://www.youtube.com/watch?v=JX8vLEQHQsA)[https://www.youtube.com/watch?v=JX8vLEQHQsA]
+O tutorial usado foi: https://www.youtube.com/watch?v=JX8vLEQHQsA
 
 
 ## Python
 
 Instale o python
 
-Acesse (https://www.python.org/downloads/)[https://www.python.org/downloads/]
+Acesse https://www.python.org/downloads/
 
 
 ## Selenium
@@ -24,6 +24,6 @@ pip install selenium
 
 ## Chrome Driver
 
-É necessário que o arquivo chromedriver.exe seja da mesma versão do seu Chrome, no caso desse repositório, a versão é 95.0.4638.69, para saber a versão do seu acesse (chrome://settings/help)[chrome://settings/help]
+É necessário que o arquivo chromedriver.exe seja da mesma versão do seu Chrome, no caso desse repositório, a versão é 95.0.4638.69, para saber a versão do seu acesse chrome://settings/help
 
-Caso a versão seja diferente, entre no site (https://chromedriver.chromium.org/downloads)[https://chromedriver.chromium.org/downloads] e faça download da sua versão
+Caso a versão seja diferente, entre no site https://chromedriver.chromium.org/downloads e faça download da sua versão
